@@ -1,0 +1,7 @@
+C:\Users\pawci\source\repos\Zad8KZatw\Zad8KZatw\bin\Debug\Zad8KZatw.exe.config
+C:\Users\pawci\source\repos\Zad8KZatw\Zad8KZatw\bin\Debug\Zad8KZatw.exe
+C:\Users\pawci\source\repos\Zad8KZatw\Zad8KZatw\bin\Debug\Zad8KZatw.pdb
+C:\Users\pawci\source\repos\Zad8KZatw\Zad8KZatw\obj\Debug\Zad8KZatw.csproj.AssemblyReference.cache
+C:\Users\pawci\source\repos\Zad8KZatw\Zad8KZatw\obj\Debug\Zad8KZatw.csproj.CoreCompileInputs.cache
+C:\Users\pawci\source\repos\Zad8KZatw\Zad8KZatw\obj\Debug\Zad8KZatw.exe
+C:\Users\pawci\source\repos\Zad8KZatw\Zad8KZatw\obj\Debug\Zad8KZatw.pdb

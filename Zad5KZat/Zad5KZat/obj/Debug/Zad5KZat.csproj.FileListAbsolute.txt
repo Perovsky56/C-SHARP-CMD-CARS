@@ -1,0 +1,7 @@
+C:\Users\pawci\source\repos\Zad5KZat\Zad5KZat\bin\Debug\Zad5KZat.exe.config
+C:\Users\pawci\source\repos\Zad5KZat\Zad5KZat\bin\Debug\Zad5KZat.exe
+C:\Users\pawci\source\repos\Zad5KZat\Zad5KZat\bin\Debug\Zad5KZat.pdb
+C:\Users\pawci\source\repos\Zad5KZat\Zad5KZat\obj\Debug\Zad5KZat.csproj.AssemblyReference.cache
+C:\Users\pawci\source\repos\Zad5KZat\Zad5KZat\obj\Debug\Zad5KZat.csproj.CoreCompileInputs.cache
+C:\Users\pawci\source\repos\Zad5KZat\Zad5KZat\obj\Debug\Zad5KZat.exe
+C:\Users\pawci\source\repos\Zad5KZat\Zad5KZat\obj\Debug\Zad5KZat.pdb

@@ -1,0 +1,7 @@
+C:\Users\pawci\source\repos\Zad3KZat\Zad3KZat\obj\Debug\Zad3KZat.csproj.AssemblyReference.cache
+C:\Users\pawci\source\repos\Zad3KZat\Zad3KZat\obj\Debug\Zad3KZat.csproj.CoreCompileInputs.cache
+C:\Users\pawci\source\repos\Zad3KZat\Zad3KZat\bin\Debug\Zad3KZat.exe.config
+C:\Users\pawci\source\repos\Zad3KZat\Zad3KZat\bin\Debug\Zad3KZat.exe
+C:\Users\pawci\source\repos\Zad3KZat\Zad3KZat\bin\Debug\Zad3KZat.pdb
+C:\Users\pawci\source\repos\Zad3KZat\Zad3KZat\obj\Debug\Zad3KZat.exe
+C:\Users\pawci\source\repos\Zad3KZat\Zad3KZat\obj\Debug\Zad3KZat.pdb

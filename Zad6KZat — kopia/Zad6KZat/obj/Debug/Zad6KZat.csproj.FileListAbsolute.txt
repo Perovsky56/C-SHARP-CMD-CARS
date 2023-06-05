@@ -1,0 +1,21 @@
+C:\Users\pawci\source\repos\Zad6KZat\Zad6KZat\bin\Debug\Zad6KZat.exe.config
+C:\Users\pawci\source\repos\Zad6KZat\Zad6KZat\bin\Debug\Zad6KZat.exe
+C:\Users\pawci\source\repos\Zad6KZat\Zad6KZat\bin\Debug\Zad6KZat.pdb
+C:\Users\pawci\source\repos\Zad6KZat\Zad6KZat\obj\Debug\Zad6KZat.csproj.AssemblyReference.cache
+C:\Users\pawci\source\repos\Zad6KZat\Zad6KZat\obj\Debug\Zad6KZat.csproj.CoreCompileInputs.cache
+C:\Users\pawci\source\repos\Zad6KZat\Zad6KZat\obj\Debug\Zad6KZat.exe
+C:\Users\pawci\source\repos\Zad6KZat\Zad6KZat\obj\Debug\Zad6KZat.pdb
+D:\Visual Studio\Zad6KZat\Zad6KZat\bin\Debug\Zad6KZat.exe.config
+D:\Visual Studio\Zad6KZat\Zad6KZat\bin\Debug\Zad6KZat.exe
+D:\Visual Studio\Zad6KZat\Zad6KZat\bin\Debug\Zad6KZat.pdb
+D:\Visual Studio\Zad6KZat\Zad6KZat\obj\Debug\Zad6KZat.csproj.AssemblyReference.cache
+D:\Visual Studio\Zad6KZat\Zad6KZat\obj\Debug\Zad6KZat.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Zad6KZat\Zad6KZat\obj\Debug\Zad6KZat.exe
+D:\Visual Studio\Zad6KZat\Zad6KZat\obj\Debug\Zad6KZat.pdb
+D:\Visual Studio\Zad6KZat — kopia\Zad6KZat\obj\Debug\Zad6KZat.csproj.AssemblyReference.cache
+D:\Visual Studio\Zad6KZat — kopia\Zad6KZat\obj\Debug\Zad6KZat.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Zad6KZat — kopia\Zad6KZat\obj\Debug\Zad6KZat.exe
+D:\Visual Studio\Zad6KZat — kopia\Zad6KZat\obj\Debug\Zad6KZat.pdb
+D:\Visual Studio\Zad6KZat — kopia\Zad6KZat\bin\Debug\Zad6KZat.exe.config
+D:\Visual Studio\Zad6KZat — kopia\Zad6KZat\bin\Debug\Zad6KZat.exe
+D:\Visual Studio\Zad6KZat — kopia\Zad6KZat\bin\Debug\Zad6KZat.pdb

@@ -1,0 +1,11 @@
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\bin\Debug\Zad4KZat.exe.config
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\bin\Debug\Zad4KZat.exe
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\bin\Debug\Zad4KZat.pdb
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\obj\Debug\Zad4KZat.csproj.AssemblyReference.cache
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\obj\Debug\Zad4KZat.FormOkno1.resources
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\obj\Debug\Zad4KZat.Properties.Resources.resources
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\obj\Debug\Zad4KZat.csproj.GenerateResource.cache
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\obj\Debug\Zad4KZat.csproj.CoreCompileInputs.cache
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\obj\Debug\Zad4KZat.exe
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\obj\Debug\Zad4KZat.pdb
+C:\Users\pawci\source\repos\Zad4KZat\Zad4KZat\obj\Debug\Zad4KZat.FormOkno2.resources

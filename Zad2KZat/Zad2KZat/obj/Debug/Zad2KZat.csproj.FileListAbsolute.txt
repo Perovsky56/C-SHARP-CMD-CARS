@@ -1,0 +1,14 @@
+C:\Users\pawci\source\repos\Zad2KZat\Zad2KZat\bin\Debug\Zad2KZat.exe.config
+C:\Users\pawci\source\repos\Zad2KZat\Zad2KZat\bin\Debug\Zad2KZat.exe
+C:\Users\pawci\source\repos\Zad2KZat\Zad2KZat\bin\Debug\Zad2KZat.pdb
+C:\Users\pawci\source\repos\Zad2KZat\Zad2KZat\obj\Debug\Zad2KZat.csproj.AssemblyReference.cache
+C:\Users\pawci\source\repos\Zad2KZat\Zad2KZat\obj\Debug\Zad2KZat.csproj.CoreCompileInputs.cache
+C:\Users\pawci\source\repos\Zad2KZat\Zad2KZat\obj\Debug\Zad2KZat.exe
+C:\Users\pawci\source\repos\Zad2KZat\Zad2KZat\obj\Debug\Zad2KZat.pdb
+C:\Users\pawci\source\Zatwarnicki\Zad2KZat\Zad2KZat\bin\Debug\Zad2KZat.exe.config
+C:\Users\pawci\source\Zatwarnicki\Zad2KZat\Zad2KZat\bin\Debug\Zad2KZat.exe
+C:\Users\pawci\source\Zatwarnicki\Zad2KZat\Zad2KZat\bin\Debug\Zad2KZat.pdb
+C:\Users\pawci\source\Zatwarnicki\Zad2KZat\Zad2KZat\obj\Debug\Zad2KZat.csproj.AssemblyReference.cache
+C:\Users\pawci\source\Zatwarnicki\Zad2KZat\Zad2KZat\obj\Debug\Zad2KZat.csproj.CoreCompileInputs.cache
+C:\Users\pawci\source\Zatwarnicki\Zad2KZat\Zad2KZat\obj\Debug\Zad2KZat.exe
+C:\Users\pawci\source\Zatwarnicki\Zad2KZat\Zad2KZat\obj\Debug\Zad2KZat.pdb
